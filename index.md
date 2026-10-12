@@ -138,4 +138,4 @@ Each section includes an explanation of the enhancement, the original and improv
 - [Software Design and Engineering — CS 320](software-design.html)
 - [Algorithms and Data Structures — CS 320](algorithms.html)
 - [Databases — CS 360 Android Weight Tracker](databases.html)
-
+- [Download My Professional Self-Assessment (Word Document)](documents/Madison_Parker_Professional_Self_Assessment.docx)
