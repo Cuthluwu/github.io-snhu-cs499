@@ -5,16 +5,15 @@ title: Madison Parker | CS 499 ePortfolio
 
 # Madison Parker
 
-**Computer Science ePortfolio | Southern New Hampshire University | CS 499**
+Computer Science ePortfolio | Southern New Hampshire University | CS 499
 
 [Home](./) · [Code Review](code-review.html) · [Software Design](software-design.html) · [Algorithms](algorithms.html) · [Databases](databases.html)
 
 ## Professional Self-Assessment
 
-**Review and personalize this self-assessment before submitting the portfolio.**
+Review and personalize this self-assessment before submitting the portfolio.
 
-
-**Madison Parker | Bachelor of Science in Computer Science | Southern New Hampshire University**
+Madison Parker | Bachelor of Science in Computer Science | Southern New Hampshire University
 
 My work throughout the Computer Science program has strengthened my ability to translate requirements into software that can be maintained, tested, and explained. I began with individual programming assignments, but my approach gradually shifted toward evaluating how a program is structured, what happens when it receives invalid input, how its data is protected, and whether another developer could understand the choices behind it. This portfolio brings together three focused enhancements to demonstrate that development.
 
